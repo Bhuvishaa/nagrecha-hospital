@@ -1,4 +1,4 @@
-const services = [
+const Facilities = [
   "Orthopedic Surgery",
   "Joint Replacement",
   "Fracture Treatment",

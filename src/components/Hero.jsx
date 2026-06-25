@@ -10,7 +10,7 @@ function Hero() {
             Trusted Multi-Speciality Healthcare
           </span>
 
-          <h1 className="mt-6 text-6xl font-bold leading-tight text-gray-900">
+          <h1 className="mt-6 text-5xl font-bold leading-tight text-gray-900">
             Expert Orthopedic & Multi-Speciality Care
           </h1>
 

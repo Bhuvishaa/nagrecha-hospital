@@ -10,7 +10,7 @@ function Navbar() {
         <li className="cursor-pointer hover:text-blue-600">Home</li>
         <li className="cursor-pointer hover:text-blue-600">About</li>
         <li className="cursor-pointer hover:text-blue-600">Doctors</li>
-        <li className="cursor-pointer hover:text-blue-600">Services</li>
+        <li className="cursor-pointer hover:text-blue-600">Facilities</li>
         <li className="cursor-pointer hover:text-blue-600">Contact</li>
       </ul>
 

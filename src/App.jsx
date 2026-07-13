@@ -5,6 +5,8 @@ import Stats from "./components/Stats";
 import Doctors from "./components/Doctors";
 import Facilities from "./components/Facilities";
 import WhyChooseUs from "./components/WhyChooseUs";
+import Gallery from "./components/Gallery";
+import Testimonials from "./components/Testimonials";
 
 function App() {
   return (
@@ -16,6 +18,8 @@ function App() {
       <Doctors />
       <Facilities />
       <WhyChooseUs />
+      <Gallery />
+      <Testimonials />
     </>
   );
 }

@@ -3,7 +3,8 @@ import Hero from "./components/Hero";
 import About from "./components/About";
 import Stats from "./components/Stats";
 import Doctors from "./components/Doctors";
-
+import Facilities from "./components/Facilities";
+import WhyChooseUs from "./components/WhyChooseUs";
 
 function App() {
   return (
@@ -13,6 +14,8 @@ function App() {
       <About />
       <Stats />
       <Doctors />
+      <Facilities />
+      <WhyChooseUs />
     </>
   );
 }

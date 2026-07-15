@@ -1,16 +1,120 @@
-# React + Vite
+# 🏥 Nagrecha Hospital Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive hospital website developed using **React**, **Vite**, and **Tailwind CSS**. The website is designed to provide patients with essential information about the hospital, its doctors, facilities, and contact details through a clean and user-friendly interface.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+**Website:** *(Paste your Vercel URL here)*
 
-## React Compiler
+Example:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+```
+https://nagrecha-hospital.vercel.app
+```
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+* Responsive design for Desktop, Tablet, and Mobile
+* Modern Hero Section
+* About Hospital
+* Doctors Section
+* Hospital Facilities
+* Image Gallery
+* Patient Testimonials
+* Frequently Asked Questions
+* Contact Section
+* Sticky Responsive Navigation Bar
+* Smooth User Interface
+* Deployed on Vercel
+
+---
+
+## 🛠️ Tech Stack
+
+* React.js
+* Vite
+* Tailwind CSS
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+* Git
+* GitHub
+* Vercel
+
+---
+
+## 📂 Project Structure
+
+```
+src/
+ ├── components/
+ │   ├── Navbar.jsx
+ │   ├── Hero.jsx
+ │   ├── About.jsx
+ │   ├── Doctors.jsx
+ │   ├── Facilities.jsx
+ │   ├── Gallery.jsx
+ │   ├── Testimonials.jsx
+ │   ├── FAQ.jsx
+ │   ├── Contact.jsx
+ │   └── Footer.jsx
+ │
+ ├── App.jsx
+ ├── main.jsx
+ └── index.css
+```
+
+---
+
+## 🚀 Getting Started
+
+Clone the repository
+
+```bash
+git clone https://github.com/Bhuvishaa/nagrecha-hospital.git
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run the development server
+
+```bash
+npm run dev
+```
+
+Build for production
+
+```bash
+npm run build
+```
+
+---
+
+## 📸 Screenshots
+
+Screenshots will be added after the final version of the website.
+
+---
+
+## 📌 Future Improvements
+
+* Online Appointment Booking
+* Backend Integration
+* Admin Dashboard
+* Google Maps Integration
+* WhatsApp Chat Support
+* Email Contact Form
+
+---
+
+## 👩‍💻 Developed By
+
+**Bhuvisha Nagrecha**
+
+Built as a real-world frontend project using React and Tailwind CSS.
